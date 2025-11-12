@@ -6,5 +6,5 @@ GET http://localhost:3000/contacts
 GET https://cse-341-project1-3-3bcf.onrender.com/contacts
 
 
-### Get constct by id
+### Get contact by id
 GET https://cse-341-project1-3-3bcf.onrender.com/contacts/690fbbf9e7d614650aa290e5
